@@ -1,0 +1,15 @@
+{
+  "name": "telegram-tea-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for tea points with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "telegraf": "^4.7.0",
+    "mongoose": "^5.13.8",
+    "dotenv": "^10.0.0"
+  }
+}
